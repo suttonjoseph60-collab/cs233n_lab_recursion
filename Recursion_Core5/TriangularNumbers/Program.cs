@@ -1,9 +1,12 @@
 ﻿// Joseph Sutton 4/29/2026
+// cs233n c# intermediate.
+// Recursive Lab: Triangular Numbers
+
 // Write a recursive method to calculate the nth triangular number and use it
 // to write an application that displays the first 10 triangular numbers.
-//
+
 // The method should take an integer n as its parameter and return an integer.
-// 
+
 // A triangular number is the sum of the first n natural numbers. For example, the 4th
 // triangular number is 1 + 2 + 3 + 4 = 10. The formula for calculating the nth triangular
 // number is T(n) = n * (n + 1) / 2.
