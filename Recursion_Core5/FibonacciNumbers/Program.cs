@@ -33,7 +33,7 @@ namespace FibonacciNumbers
             // return Fibonacci number for x-1 + Fibonacci number for x-2
 
         // algorithm?
-            // x = (x-1) + (x-2)
+            // x = fibonacci(x-1) + fibonacci(x-2)
             // 
 
         static int GetFibonacciNumber(int x)
