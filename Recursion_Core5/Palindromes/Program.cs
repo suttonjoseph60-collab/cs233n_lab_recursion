@@ -1,4 +1,8 @@
-﻿using System;
+﻿// Joseph Sutton 5/4/2026
+// cs233n c# intermediate.
+// Recursive Lab: Palindromes
+
+using System;
 using System.Reflection.Metadata.Ecma335;
 
 namespace Palindromes
